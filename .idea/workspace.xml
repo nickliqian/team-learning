@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16cbe872-4ed8-48d0-ac31-51d9bdb9345e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/5_模型融合.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/5_模型融合.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/log/lgb-hyperopt-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/log/lgb-hyperopt-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/特征工程+模型调优.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/特征工程+模型调优.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/特征工程+模型调优+模型融合.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/特征工程+模型调优+模型融合.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,15 +95,16 @@
       <updated>1578297063596</updated>
       <workItem from="1578297065579" duration="3279000" />
       <workItem from="1579081563347" duration="736000" />
-      <workItem from="1579136576453" duration="6889000" />
+      <workItem from="1579136576453" duration="7768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14092000" />
+    <option name="totallyTimeSpent" value="14971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
