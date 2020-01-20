@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16cbe872-4ed8-48d0-ac31-51d9bdb9345e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/5_模型融合.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/5_模型融合.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/特征工程+模型调优+模型融合.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/特征工程+模型调优+模型融合.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/1_赛题分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/1_赛题分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据竞赛（房租预测）/6_竞赛整理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据竞赛（房租预测）/6_竞赛整理.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +48,6 @@
               <item name="team-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="team-learning" type="462c0819:PsiDirectoryNode" />
               <item name="数据竞赛（房租预测）" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="team-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="team-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="数据竞赛（房租预测）" type="462c0819:PsiDirectoryNode" />
-              <item name="数据集" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,13 +95,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14971000" />
+    <option name="totallyTimeSpent" value="17437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
